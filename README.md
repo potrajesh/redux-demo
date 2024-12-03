@@ -2,6 +2,7 @@ install nodejs
 npx create-react-app reactapp
 cd reactapp
 npm start
+
 =========================
 //for deployment
 npm run build
